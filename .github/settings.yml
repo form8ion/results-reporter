@@ -1,0 +1,6 @@
+_extends: .github
+repository:
+  name: results-reporter
+  description: reporter for the results of the project-scaffolder or lift
+  homepage: 'https://npm.im/@form8ion/results-reporter'
+  private: false
