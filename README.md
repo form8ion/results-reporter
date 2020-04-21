@@ -36,7 +36,9 @@ $ npm install @form8ion/results-reporter --save-prod
 ### Example
 
 ```javascript
-import resultsReporter from '@form8ion/results-reporter';
+import {reportResults} from '@form8ion/results-reporter';
+
+reportResults({nextSteps: ['do this', 'do that']});
 ```
 
 ## Contributing
