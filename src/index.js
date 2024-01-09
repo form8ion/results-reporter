@@ -1,1 +1,1 @@
-export {default as reportResults} from './results-reporter';
+export {default as reportResults} from './results-reporter.js';
